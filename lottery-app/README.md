@@ -100,6 +100,9 @@ jdbc:h2:mem:lotterydb
 
 ---
 ## Screenshots
+<img width="1324" height="647" alt="succ" src="https://github.com/user-attachments/assets/57707192-42bb-4603-a1aa-ddfbdd0fe954" />
+<img width="498" height="383" alt="tickts" src="https://github.com/user-attachments/assets/5fd598c3-dcdf-4983-969e-87f9982884df" />
+<img width="1080" height="313" alt="local" src="https://github.com/user-attachments/assets/96a25786-831d-4ffd-b0d9-f369b109b383" />
 
 
 
